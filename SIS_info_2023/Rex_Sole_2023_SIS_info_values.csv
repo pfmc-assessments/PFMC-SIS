@@ -1,0 +1,58 @@
+SAIP:,https://spo.nmfs.noaa.gov/sites/default/files/TMSPO183.pdf
+
+Stock / Entity Name,Rex Sole
+Assessment Type,Stock Monitoring Updates
+Ensemble/Multimodel Approach,NA
+Asmt Year and Month,2023.05
+Last Data Year,2022
+Asmt Model Category,6 - Statistical Catch-at-Age (SS, ASAP, AMAK, BAM, MultifancL< CASAL)
+Asmt Model Category,SS
+Model Version,3.30.21.00
+Lead Lab,NWFSC
+Point of Contact (assessment lead),Markus Min <mmin@uw.edu>
+Review Result,Full Acceptance
+Catch Input Data,5.Near complete knowledge
+Abundance Input Data,4.Comprehensive fishery independent
+Biological Input Data,3.Mostly empirical estimates
+Size/Age Composition Input Data,3.Gaps but supports age-structured assessment
+Ecosystem Linkage,2.Random variation not mechanistic
+
+Fishing Mortality Estimates
+F Year, 2022
+Min F Estimate, 
+Max F Estimate, 
+Best F Estimate, 0.139
+F Basis, Equilibrium SPR
+F Unit, 1-SPR
+
+Domestic Fishing Mortality Derive Management Quantities
+Flimit, 0.7
+Flimit Basis, 1-SPR_SPR30%
+FMSY, 0.7
+FMSY Basis, 1-SPR_SPR30%
+F target, 
+F target Basis, 
+F/F_limit, 0.199
+F/F_MSY, 0.199
+F/F_target, 
+
+Biomass Estimates
+B Year, 2023
+Min B. Estimate, 
+Max. B Estimate, 
+Best B Estimate, 912715000
+B Basis, Stock Reproductive Output
+B Unit, Millions of eggs
+MSY, 1680.2
+MSY Unit, mt
+
+Domestic Biomass Derived Management Quantities
+Blimit, 149873750
+Blimit Basis, SSB12.5%
+BMSY, 299747500
+BMSY Basis, SSB25%
+B/Blimit, 6.09
+B/Bmsy, 3.045
+Stock Level (relative) to BMSY, ABOVE
+
+

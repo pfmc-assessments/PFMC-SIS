@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# stuff added after initial template
+# output files
+output/*.Rdata

@@ -1,0 +1,58 @@
+SAIP:,https://spo.nmfs.noaa.gov/sites/default/files/TMSPO183.pdf
+
+Stock / Entity Name,Black Rockfish Northern CA
+Assessment Type,Operational
+Ensemble/Multimodel Approach,NA
+Asmt Year and Month,2023.07
+Last Data Year,2022
+Asmt Model Category,6 - Statistical Catch-at-Age (SS, ASAP, AMAK, BAM, MultifancL< CASAL)
+Asmt Model Category,SS
+Model Version,3.30.21.00
+Lead Lab,SWFSC
+Point of Contact (assessment lead),Edward.Dick@noaa.gov
+Review Result,Full Acceptance
+Catch Input Data,3.Minor gaps across sectors
+Abundance Input Data,3.Limited fishery independent
+Biological Input Data,3.Mostly empirical estimates
+Size/Age Composition Input Data,3.Gaps but supports age-structured assessment
+Ecosystem Linkage,1.Informative or used to process input data
+
+Fishing Mortality Estimates
+F Year, 2022
+Min F Estimate, 
+Max F Estimate, 
+Best F Estimate, 0.541
+F Basis, Equilibrium SPR
+F Unit, 1-SPR
+
+Domestic Fishing Mortality Derive Management Quantities
+Flimit, 0.5
+Flimit Basis, 1-SPR_SPR50%
+FMSY, 0.5
+FMSY Basis, 1-SPR_SPR50%
+F target, 
+F target Basis, 
+F/F_limit, 1.082
+F/F_MSY, 1.082
+F/F_target, 
+
+Biomass Estimates
+B Year, 2023
+Min B. Estimate, 
+Max. B Estimate, 
+Best B Estimate, 410.2
+B Basis, Stock Reproductive Output
+B Unit, Billions of eggs
+MSY, 280.2
+MSY Unit, mt
+
+Domestic Biomass Derived Management Quantities
+Blimit, 281.5
+Blimit Basis, SSB25%
+BMSY, 450.4
+BMSY Basis, SSB40%
+B/Blimit, 1.457
+B/Bmsy, 0.911
+Stock Level (relative) to BMSY, NEAR
+
+
