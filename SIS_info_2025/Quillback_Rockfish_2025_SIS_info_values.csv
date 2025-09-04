@@ -1,0 +1,58 @@
+SAIP:,https://spo.nmfs.noaa.gov/sites/default/files/TMSPO183.pdf
+
+Stock / Entity Name,Quillback Rockfish
+Assessment Type,Operational
+Ensemble/Multimodel Approach,NA
+Asmt Year and Month,2025.06
+Last Data Year,2024
+Asmt Model Category,6 - Statistical Catch-at-Age (SS, ASAP, AMAK, BAM, MultifancL< CASAL)
+Asmt Model Category,SS
+Model Version,3.30.23.1
+Lead Lab,NWFSC
+Point of Contact (assessment lead),brian.langseth@noaa.gov
+Review Result,Full Acceptance
+Catch Input Data,4.Minor gaps in some sector(s)
+Abundance Input Data,3.Limited fishery independent
+Biological Input Data,3.Mostly empirical estimates
+Size/Age Composition Input Data,3.Gaps but supports age-structured assessment
+Ecosystem Linkage,2.Random variation, not mechanistic
+
+Fishing Mortality Estimates
+F Year, 2024
+Min F Estimate, 
+Max F Estimate, 
+Best F Estimate, 0.099
+F Basis, Equilibrium SPR
+F Unit, 1-SPR
+
+Domestic Fishing Mortality Derive Management Quantities
+Flimit, 0.5
+Flimit Basis, 1-SPR_SPR50%
+FMSY, 0.5
+FMSY Basis, 1-SPR_SPR50%
+F target, 
+F target Basis, 
+F/F_limit, 0.198
+F/F_MSY, 0.198
+F/F_target, 
+
+Biomass Estimates
+B Year, 2025
+Min B. Estimate, 
+Max. B Estimate, 
+Best B Estimate, 42.3
+B Basis, Stock Reproductive Output
+B Unit, Billions of eggs
+MSY, 11.7
+MSY Unit, mt
+
+Domestic Biomass Derived Management Quantities
+Blimit, 12.1
+Blimit Basis, SSB25%
+BMSY, 19.4
+BMSY Basis, SSB40%
+B/Blimit, 3.482
+B/Bmsy, 2.176
+Stock Level (relative) to BMSY, ABOVE
+
+
